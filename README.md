@@ -1,29 +1,13 @@
 # AIT511-Course-Project1
 
-##Project structure
-
-my-project/
-│
-├── data/ # Dataset files (CSV)
-│ ├── train.csv
-│ ├── test.csv
-│ └── ...
-│
-├── notebook/ # Jupyter notebook
-│ └── main.ipynb
-│
-├── requirements.txt # Python dependencies
-├── README.md
-└── .gitignore
-
-
 ---
 
 ## 🚀 How to Run
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/my-project.git
+git clone https://github.com/suniljoshi00/AIT511-Course-Project1.git
+
 cd my-project
 ```
 
