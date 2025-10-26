@@ -16,10 +16,10 @@ go to the project's locaiton
 pip install -r requirements.txt
 ```
 
-4. **Launch jupyter notebook**
+3. **Launch jupyter notebook**
 ```bash
 jupyter notebook notebook/main.ipynb
 ```
 
-6. **Run all cells**
+4. **Run all cells**
 Notebook automtically loads data form the data/ folder and runs all preprocessing, model trainning and evalutaion steps
