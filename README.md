@@ -10,7 +10,7 @@ The notebook loads dataset directly from GitHub raw URLs:
 - Ensures reproducibility with latest data
 
 ## Usage
-1. Open the Jupyter notebook (`.ipynb` file)
+1. Open the Jupyter notebook (`ml-mt2025726-mt2025704.ipynb` file)
 2. Run all cells sequentially
 3. Dependencies will be installed automatically
 4. Data will be loaded directly from GitHub
@@ -20,3 +20,6 @@ The notebook loads dataset directly from GitHub raw URLs:
 - ✅ Direct data loading from GitHub
 - ✅ Self-contained environment setup
 - ✅ No manual configuration needed
+
+## Note
+-we made a model that had an accuracy of 97.190%
