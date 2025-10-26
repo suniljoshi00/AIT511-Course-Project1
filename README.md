@@ -15,11 +15,6 @@ The notebook loads dataset directly from GitHub raw URLs:
 3. Dependencies will be installed automatically
 4. Data will be loaded directly from GitHub
 
-## Features
-- ✅ Automatic dependency installation
-- ✅ Direct data loading from GitHub
-- ✅ Self-contained environment setup
-- ✅ No manual configuration needed
-
 ## Note
--we made a model that had an accuracy of 97.190%
+- our model's test accuracy is 92.837%
+- we made a model that had an accuracy of 97.190% (https://github.com/akt052/ml-project)
