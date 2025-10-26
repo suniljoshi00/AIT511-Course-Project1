@@ -5,7 +5,7 @@ All required dependencies are automatically installed within the Jupyter noteboo
 
 ## Data Source
 The notebook loads dataset directly from GitHub raw URLs:
-- Data is fetched from: `https://raw.githubusercontent.com/username/repo/main/path/to/dataset.csv`
+- Data is fetched from: raw link of data in the data folder
 - No manual download required
 - Ensures reproducibility with latest data
 
