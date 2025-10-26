@@ -25,12 +25,17 @@ my-project/
 ```bash
 git clone https://github.com/yourusername/my-project.git
 cd my-project
+```
 
 2. **Install dependencies**
+```bash
 pip install -r requirements.txt
+```
 
-3. **Launch jupyter notebook**
+4. **Launch jupyter notebook**
+```bash
 jupyter notebook notebook/main.ipynb
+```
 
-4. **Run all cells**
+6. **Run all cells**
 Notebook automtically loads data form the data/ folder and runs all preprocessing, model trainning and evalutaion steps
