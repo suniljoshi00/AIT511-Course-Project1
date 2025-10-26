@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/suniljoshi00/AIT511-Course-Project1.git
 
-cd my-project
+go to the project's locaiton
 ```
 
 2. **Install dependencies**
